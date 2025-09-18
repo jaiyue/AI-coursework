@@ -1,2 +1,2 @@
 # AI-coursework
-Here is the report: (llpw83.pdf)
+[Here is the report](llpw83.pdf)
